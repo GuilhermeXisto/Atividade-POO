@@ -1,0 +1,14 @@
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\bin\Debug\net10.0\atividade.exe
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\bin\Debug\net10.0\atividade.deps.json
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\bin\Debug\net10.0\atividade.runtimeconfig.json
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\bin\Debug\net10.0\atividade.dll
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\bin\Debug\net10.0\atividade.pdb
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\obj\Debug\net10.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\obj\Debug\net10.0\atividade.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\obj\Debug\net10.0\atividade.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\obj\Debug\net10.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\obj\Debug\net10.0\atividade.dll
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\obj\Debug\net10.0\refint\atividade.dll
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\obj\Debug\net10.0\atividade.pdb
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\obj\Debug\net10.0\atividade.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Desktop\Nova pasta\atividade\obj\Debug\net10.0\ref\atividade.dll
